@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pulseneon)](https://github.com/anuraghazra/github-readme-stats)
+![Wakatime](https://wakatime.com/share/@pulseneon/7dd462dd-7f0f-43ab-9091-37047c23c8d4.svg)
 
 <!--
 **pulseneon/pulseneon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
